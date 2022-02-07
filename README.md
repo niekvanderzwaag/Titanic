@@ -1,6 +1,4 @@
-# Titanic
-Exploratory Analysis of Titanic Dataset
-
+# Titanic Disaster - Exploratory Data Analysis and Survival Prediction
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -9,3 +7,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 Dataset source: https://www.kaggle.com/c/titanic/data
+
+
+Exploratory Data Analysis [HERE](https://github.com/niekvanderzwaag/Titanic/blob/main/Titanic%20EDA.ipynb)
+ & Prediction using Machine learning [HERE](https://github.com/niekvanderzwaag/Titanic/blob/main/titanic-advanced-feature-engineering.ipynb)
