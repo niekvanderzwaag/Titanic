@@ -1,4 +1,4 @@
-# Titanic Disaster - Exploratory Data Analysis and Survival Prediction
+# Titanic Disaster - Exploratory Data Analysis and Survival Rate Prediction
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
